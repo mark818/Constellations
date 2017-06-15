@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="constellations.sj0195.s2.studyjams.cn.constellations.about">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="?attr/colorPrimary"
+        android:title="About"
+        app:popupTheme="@style/AppTheme.PopupOverlay">
+
+        <android.support.v7.widget.DialogTitle
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="About"
+            android:textSize="40sp"
+            android:layout_marginTop="28sp"
+            android:gravity="center_horizontal"/>
+    </android.support.v7.widget.Toolbar>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="50dp"
+        android:fontFamily="sans serif"
+        android:textSize="14sp"
+        android:text="This is my first app made in a rush during my internship summer 2017.\n\n
+I have experimented with intriguing features using Navigation Draw view such as fitSystemWindows and setting translucent status bar, etc.\n\n
+Overall, it has been a great journey learning and enjoying myself at Study Jams China.\n\n
+I would like to learn more and polish my skills for the months to come.\n\n\n\n\n\n
+                                                           Mark" />
+</LinearLayout>

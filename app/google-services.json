@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794159107993",
+    "firebase_url": "https://constellations-ca036.firebaseio.com",
+    "project_id": "constellations-ca036",
+    "storage_bucket": "constellations-ca036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794159107993:android:c00be0a61b1556fc",
+        "android_client_info": {
+          "package_name": "constellations.sj0195.s2.studyjams.cn.constellations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794159107993-jm5176u87prbr5r68c01pn57sbr3fj7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "constellations.sj0195.s2.studyjams.cn.constellations",
+            "certificate_hash": "c27970f167fd502ee9473792118c67cc984c8eb6"
+          }
+        },
+        {
+          "client_id": "794159107993-jpr4f4fsvtfddafg43r1ohqsna9jpefn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiyKWHsADSpeFt4bVeQRg_Njc8P2arp1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794159107993-jpr4f4fsvtfddafg43r1ohqsna9jpefn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

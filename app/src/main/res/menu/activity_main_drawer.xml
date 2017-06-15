@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Aries"
+            android:icon="@drawable/ic_panorama_fish_eye_black_24dp"
+            android:title="Aries" />
+        <item
+            android:id="@+id/Taurus"
+            android:icon="@drawable/ic_panorama_fish_eye_black_24dp"
+            android:title="Taurus" />
+        <item
+            android:id="@+id/Gemini"
+            android:icon="@drawable/ic_panorama_fish_eye_black_24dp"
+            android:title="Gemini" />
+        <item
+            android:id="@+id/Cancer"
+            android:icon="@drawable/ic_panorama_fish_eye_black_24dp"
+            android:title="Cancer" />
+        <item
+            android:id="@+id/Leo"
+            android:icon="@drawable/ic_panorama_fish_eye_black_24dp"
+            android:title="Leo" />
+        <item
+            android:id="@+id/Virgo"
+            android:icon="@drawable/ic_panorama_fish_eye_black_24dp"
+            android:title="Virgo" />
+        <item
+            android:id="@+id/Libra"
+            android:icon="@drawable/ic_panorama_fish_eye_black_24dp"
+            android:title="Libra" />
+        <item
+            android:id="@+id/Scorpio"
+            android:icon="@drawable/ic_panorama_fish_eye_black_24dp"
+            android:title="Scorpio" />
+        <item
+            android:id="@+id/Sagittarius"
+            android:icon="@drawable/ic_panorama_fish_eye_black_24dp"
+            android:title="Sagittarius" />
+        <item
+            android:id="@+id/Capricorn"
+            android:icon="@drawable/ic_panorama_fish_eye_black_24dp"
+            android:title="Capricorn" />
+        <item
+            android:id="@+id/Aquarius"
+            android:icon="@drawable/ic_panorama_fish_eye_black_24dp"
+            android:title="Aquarius" />
+        <item
+            android:id="@+id/Pisces"
+            android:icon="@drawable/ic_panorama_fish_eye_black_24dp"
+            android:title="Pisces" />
+
+    </group>
+
+</menu>
